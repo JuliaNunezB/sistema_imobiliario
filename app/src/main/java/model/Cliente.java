@@ -5,6 +5,7 @@ public class Cliente {
     private String nome;
     private String telefone;
     private String email;
+    private String oi;
 
     // Construtor
     public Cliente(String id, String nome, String telefone, String email) {
